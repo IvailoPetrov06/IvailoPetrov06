@@ -6,4 +6,4 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=IvailoPetrov06&theme=dark&show_icons=true">
-<Top Langs="https://github-readme-stats.vercel.app/api/top-langs/?username=IvailoPetrov06&layout=compact">
+<langs_count="https://github-readme-stats.vercel.app/api/top-langs/?username=IvailoPetrov06&langs_count=8">
