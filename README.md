@@ -5,4 +5,4 @@
 - ⚡ Fun fact: I like play games and draw often.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=IvailoPetrov06&theme=dark&show_icons=true">
