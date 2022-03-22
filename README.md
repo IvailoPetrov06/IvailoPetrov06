@@ -5,6 +5,6 @@
 - ⚡ Fun fact: I like playing games often.
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=IvailoPetrov06&theme=dark&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=IvailoPetrov06&theme=radical&show_icons=true">
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvailoPetrov06&show_icons=true&theme=radical)
