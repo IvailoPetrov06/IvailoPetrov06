@@ -17,4 +17,6 @@
     <img align="left" alt="HTML&CSS" width="200px" src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" ></a>
    <a href ="https://www.credly.com/badges/bd1a7cf2-9929-4936-b1bb-13075f1c38bb/public_url">
     <img align="left" alt="HTML&CSS" width="200px" src="https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" ></a>
+   <a href ="https://www.credly.com/badges/ea67aab1-28e1-43a9-8a42-485e2ae23468/public_url">
+    <img align="left" alt="HTML&CSS" width="200px" src="https://images.credly.com/size/340x340/images/09b6d58c-763a-4b40-aea1-787d8f46bbcd/Intro2PT.png" ></a>
 </details>
