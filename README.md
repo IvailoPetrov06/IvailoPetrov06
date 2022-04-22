@@ -13,4 +13,6 @@
   <summary><b>Credly badges</b></summary>
 <a href ="https://www.credly.com/badges/d961cdac-5226-49ed-8342-c0dffe1dd5c7/public_url">
     <img align="left" alt="HTML&CSS" width="200px" src="https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" ></a>
+  <a href ="https://www.credly.com/badges/938f306b-06ba-493c-bf0c-5702aa1fc178/public_url">
+    <img align="left" alt="HTML&CSS" width="200px" src="https://images.credly.com/size/340x340/images/054913b2-e271-49a2-a1a4-9bf1c1f9a404/CyberEssentials.png" ></a>
 </details>
