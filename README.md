@@ -4,17 +4,11 @@
 - 📫 How to reach me: ivkobg26@gmail.com
 - ⚡ Fun fact: I like playing games often.
 
+### Github Stats
 
-
-<details>
-<summary>GitHub Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=IvailoPetrov06&theme=radical&show_icons=true">
-</details>
 
-<details>
-<summary>Most Used Languages</summary>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvailoPetrov06&show_icons=true&theme=radical">
-</details>
 
 <details>	
   <summary>Credly badges</summary>
