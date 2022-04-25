@@ -4,7 +4,7 @@
 - 📫 How to reach me: ivkobg26@gmail.com
 - ⚡ Fun fact: I like playing games often.
 
-### Github Stats
+## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=IvailoPetrov06&theme=radical&show_icons=true">
 
