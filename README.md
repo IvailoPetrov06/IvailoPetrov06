@@ -15,7 +15,7 @@
 </details>
 
 <details>	
-  <summary><b>Credly badges</b></summary>
+  <summary>Credly badges</summary>
 <a href ="https://www.credly.com/badges/bd1a7cf2-9929-4936-b1bb-13075f1c38bb/public_url">
     <img align="left" alt="HTML&CSS" width="200px" src="https://images.credly.com/size/340x340/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" ></a>
 </details>
