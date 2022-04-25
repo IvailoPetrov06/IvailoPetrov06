@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Programing C#.
 - 📫 How to reach me: ivkobg26@gmail.com
 - ⚡ Fun fact: I like playing games often.
+
 ### Languages and Tools:
+[<img align="left" alt="csharp" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp-original.svg"/>]
 
 ## Github Stats
 
