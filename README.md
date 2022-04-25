@@ -5,8 +5,8 @@
 - ⚡ Fun fact: I like playing games often.
 
 ### Languages and Tools:
-
-
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
+  
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=IvailoPetrov06&theme=radical&show_icons=true">
