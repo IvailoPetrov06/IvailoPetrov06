@@ -1,5 +1,5 @@
 ## Hi, I'm Ivailo Petrov! <img src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="28px" alt="hi">
-- 🌱 I’m currently learning Programing C#.
+- 🌱 I’m currently learning programing C#.
 - 📫 How to reach me: ivkobg26@gmail.com
 - ⚡ Fun fact: I like playing games often.
  
