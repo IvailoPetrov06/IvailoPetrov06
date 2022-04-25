@@ -4,7 +4,7 @@
 - 📫 How to reach me: ivkobg26@gmail.com
 - ⚡ Fun fact: I like playing games often.
 
-### Languages and Tools:
+## Languages and Tools
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> </p>
   
 ## Github Stats
