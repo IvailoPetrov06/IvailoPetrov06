@@ -9,7 +9,10 @@
 <img src="https://github-readme-stats.vercel.app/api?username=IvailoPetrov06&theme=radical&show_icons=true">
 </details>
 
+<details>
+  <summary>⚡ Most Used Languages</summary>
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvailoPetrov06&show_icons=true&theme=radical)
+</details>
 
 <details>	
   <summary><b>Credly badges</b></summary>
