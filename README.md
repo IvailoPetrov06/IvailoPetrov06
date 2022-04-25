@@ -10,8 +10,8 @@
 </details>
 
 <details>
-  <summary>⚡ Most Used Languages</summary>
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IvailoPetrov06&show_icons=true&theme=radical)
+<summary>Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvailoPetrov06&show_icons=true&theme=radical">
 </details>
 
 <details>	
