@@ -1,4 +1,4 @@
-## Hi, I'm Ivailo Petrov! <img src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="28px" alt="hi">![](https://komarev.com/ghpvc/?username=IvailoPetrov06&color=blue)
+## Hi, I'm Ivailo Petrov! <img src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="28px" alt="hi">
 - 🌱 I’m currently learning programing C#.
 - 📫 How to reach me: ivkobg26@gmail.com
 - ⚡ Fun fact: I like playing games often.
@@ -17,3 +17,5 @@
  <img src="https://github-readme-stats.vercel.app/api?username=IvailoPetrov06&theme=radical&show_icons=true">
  
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IvailoPetrov06&show_icons=true&theme=radical">
+
+![](https://komarev.com/ghpvc/?username=IvailoPetrov06&color=blue)
