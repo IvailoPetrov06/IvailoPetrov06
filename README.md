@@ -1,9 +1,8 @@
-## Hi, I'm Ivailo Petrov! <img src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="28px" alt="hi">
+## Hi, I'm Ivailo Petrov! <img src="https://c.tenor.com/yWSRmymbuBkAAAAM/waving-hi.gif" width="28px" alt="hi">![](https://komarev.com/ghpvc/?username=IvailoPetrov06&color=blue)
 - 🌱 I’m currently learning programing C#.
 - 📫 How to reach me: ivkobg26@gmail.com
 - ⚡ Fun fact: I like playing games often.
  
- ![](https://komarev.com/ghpvc/?username=IvailoPetrov06&color=blue)
  
 ## Languages and Tools
 <p align="left"> <a href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/csharp/csharp-original.svg" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original-wordmark.svg" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </p>
